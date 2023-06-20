@@ -21,4 +21,5 @@ def adivina_el_numero():
 
     print("¡Gracias por jugar!")
 
+
 adivina_el_numero()
